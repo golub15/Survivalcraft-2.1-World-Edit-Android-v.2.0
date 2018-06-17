@@ -1,0 +1,15 @@
+c:\users\1\documents\visual studio 2017\Projects\ClassLibrary2\ClassLibrary2\bin\Release\ClassLibrary2.dll
+c:\users\1\documents\visual studio 2017\Projects\ClassLibrary2\ClassLibrary2\bin\Release\ClassLibrary2.pdb
+c:\users\1\documents\visual studio 2017\Projects\ClassLibrary2\ClassLibrary2\bin\Release\ClassLibrary2.ClassLibrary2.apk
+c:\users\1\documents\visual studio 2017\Projects\ClassLibrary2\ClassLibrary2\bin\Release\ClassLibrary2.ClassLibrary2-Signed.apk
+c:\users\1\documents\visual studio 2017\Projects\ClassLibrary2\ClassLibrary2\bin\Release\OpenTK-1.0.dll
+c:\users\1\documents\visual studio 2017\Projects\ClassLibrary2\ClassLibrary2\bin\Release\FJCore.dll
+c:\users\1\documents\visual studio 2017\Projects\ClassLibrary2\ClassLibrary2\bin\Release\NVorbis.dll
+c:\users\1\documents\visual studio 2017\Projects\ClassLibrary2\ClassLibrary2\bin\Release\PngCs.dll
+c:\users\1\documents\visual studio 2017\Projects\ClassLibrary2\ClassLibrary2\bin\Release\System.Net.Http.dll
+c:\users\1\documents\visual studio 2017\Projects\ClassLibrary2\ClassLibrary2\obj\Release\ClassLibrary2.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2017\Projects\ClassLibrary2\ClassLibrary2\obj\Release\ClassLibrary2.dll
+c:\users\1\documents\visual studio 2017\Projects\ClassLibrary2\ClassLibrary2\obj\Release\ClassLibrary2.pdb
+c:\users\1\documents\visual studio 2017\Projects\ClassLibrary2\ClassLibrary2\obj\Release\android\bin\ClassLibrary2.ClassLibrary2.apk
+c:\users\1\documents\visual studio 2017\Projects\ClassLibrary2\ClassLibrary2\obj\Release\R.cs.flag
+c:\users\1\documents\visual studio 2017\Projects\ClassLibrary2\ClassLibrary2\obj\Release\uploadflags.txt
