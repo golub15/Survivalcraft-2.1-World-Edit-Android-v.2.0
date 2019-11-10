@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "World Edit 2.1 Android v.2.0 Betta", "ClassLibrary2\World Edit 2.1 Android v.2.0 Betta.csproj", "{08E69501-2E10-4C9B-BBD3-4C277D54A339}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WEnet", "WEnet\WEnet.csproj", "{37D2CDA5-8636-43D3-B2C2-1FF8B6CC8DC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,8 +17,15 @@ Global
 		{08E69501-2E10-4C9B-BBD3-4C277D54A339}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08E69501-2E10-4C9B-BBD3-4C277D54A339}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08E69501-2E10-4C9B-BBD3-4C277D54A339}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37D2CDA5-8636-43D3-B2C2-1FF8B6CC8DC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37D2CDA5-8636-43D3-B2C2-1FF8B6CC8DC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37D2CDA5-8636-43D3-B2C2-1FF8B6CC8DC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37D2CDA5-8636-43D3-B2C2-1FF8B6CC8DC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A65A05DD-1B52-4C8B-B026-D26E750CFD0C}
 	EndGlobalSection
 EndGlobal

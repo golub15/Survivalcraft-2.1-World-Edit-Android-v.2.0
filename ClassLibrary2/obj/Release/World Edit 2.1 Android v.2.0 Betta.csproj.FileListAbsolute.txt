@@ -1,0 +1,21 @@
+C:\Users\1\Documents\Visual Studio 2017\Projects\World Edit 2.1 Android v.2.0 Betta\ClassLibrary2\bin\Release\ClassLibrary2.dll
+C:\Users\1\Documents\Visual Studio 2017\Projects\World Edit 2.1 Android v.2.0 Betta\ClassLibrary2\bin\Release\ClassLibrary2.pdb
+C:\Users\1\Documents\Visual Studio 2017\Projects\World Edit 2.1 Android v.2.0 Betta\ClassLibrary2\bin\Release\ClassLibrary2.ClassLibrary2.apk
+C:\Users\1\Documents\Visual Studio 2017\Projects\World Edit 2.1 Android v.2.0 Betta\ClassLibrary2\bin\Release\ClassLibrary2.ClassLibrary2-Signed.apk
+C:\Users\1\Documents\Visual Studio 2017\Projects\World Edit 2.1 Android v.2.0 Betta\ClassLibrary2\bin\Release\OpenTK-1.0.dll
+C:\Users\1\Documents\Visual Studio 2017\Projects\World Edit 2.1 Android v.2.0 Betta\ClassLibrary2\bin\Release\FJCore.dll
+C:\Users\1\Documents\Visual Studio 2017\Projects\World Edit 2.1 Android v.2.0 Betta\ClassLibrary2\bin\Release\NVorbis.dll
+C:\Users\1\Documents\Visual Studio 2017\Projects\World Edit 2.1 Android v.2.0 Betta\ClassLibrary2\bin\Release\PngCs.dll
+C:\Users\1\Documents\Visual Studio 2017\Projects\World Edit 2.1 Android v.2.0 Betta\ClassLibrary2\bin\Release\System.Net.Http.dll
+C:\Users\1\Documents\Visual Studio 2017\Projects\World Edit 2.1 Android v.2.0 Betta\ClassLibrary2\obj\Release\World Edit 2.1 Android v.2.0 Betta.csprojAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2017\Projects\World Edit 2.1 Android v.2.0 Betta\ClassLibrary2\obj\Release\World Edit 2.1 Android v.2.0 Betta.csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\Visual Studio 2017\Projects\World Edit 2.1 Android v.2.0 Betta\ClassLibrary2\obj\Release\World Edit 2.1 Android v.2.0 Betta.csproj.CopyComplete
+C:\Users\1\Documents\Visual Studio 2017\Projects\World Edit 2.1 Android v.2.0 Betta\ClassLibrary2\obj\Release\ClassLibrary2.dll
+C:\Users\1\Documents\Visual Studio 2017\Projects\World Edit 2.1 Android v.2.0 Betta\ClassLibrary2\obj\Release\ClassLibrary2.pdb
+C:\Users\1\Documents\Visual Studio 2017\Projects\World Edit 2.1 Android v.2.0 Betta\ClassLibrary2\obj\Release\android\bin\ClassLibrary2.ClassLibrary2.apk
+C:\Users\1\Documents\Visual Studio 2017\Projects\World Edit 2.1 Android v.2.0 Betta\ClassLibrary2\obj\Release\R.cs.flag
+C:\Users\1\Documents\Visual Studio 2017\Projects\World Edit 2.1 Android v.2.0 Betta\ClassLibrary2\obj\Release\R.txt
+C:\Users\1\Documents\Visual Studio 2017\Projects\World Edit 2.1 Android v.2.0 Betta\ClassLibrary2\obj\Release\uploadflags.txt
+C:\Users\1\Documents\Visual Studio 2017\Projects\World Edit 2.1 Android v.2.0 Betta\ClassLibrary2\bin\Release\Engine.dll
+C:\Users\1\Documents\Visual Studio 2017\Projects\World Edit 2.1 Android v.2.0 Betta\ClassLibrary2\bin\Release\EntitySystem.dll
+C:\Users\1\Documents\Visual Studio 2017\Projects\World Edit 2.1 Android v.2.0 Betta\ClassLibrary2\bin\Release\Survivalcraft.dll

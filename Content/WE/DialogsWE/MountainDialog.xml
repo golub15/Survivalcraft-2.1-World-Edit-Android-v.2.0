@@ -1,0 +1,97 @@
+<CanvasWidget xmlns="runtime-namespace:Game">
+
+  <CanvasWidget Size="700, 500" ClampToBounds="true" HorizontalAlignment="Center" VerticalAlignment="Center">
+    <RectangleWidget FillColor="0, 0, 0, 255" OutlineColor="128, 128, 128, 128" OutlineThickness="2" />
+    <StackPanelWidget Direction="Vertical" HorizontalAlignment="Center" VerticalAlignment="Near" Margin="15, 15">
+      
+      <LabelWidget Name="Mountain_Dialog.Title" Font="{Fonts/Pericles32}" HorizontalAlignment="Center"/>
+
+      <CanvasWidget Size="0, Infinity" />
+
+      <CanvasWidget Size="Infinity, 30">
+	  
+        <StackPanelWidget Direction="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+          <CanvasWidget Size="180, -1" VerticalAlignment="Center">
+            <LabelWidget Name="Mountain_Dialog.Label1" Text="Radius" Font="{Fonts/Pericles18}" HorizontalAlignment="Center"/>
+          </CanvasWidget>
+          <SliderWidget Name="Mountain_Dialog.Slider1" VerticalAlignment="Center" LabelWidth="120" />
+        </StackPanelWidget>
+      </CanvasWidget>
+	  
+	  <StackPanelWidget Direction="Horizontal" HorizontalAlignment="Center">
+        <BevelledButtonWidget Name="Mountain_Dialog.Button3" Style="{Styles/ButtonStyle_Minus}" VerticalAlignment="Center"/>
+        <CanvasWidget Size="220, 30" VerticalAlignment="Center">
+		 <LabelWidget Name="" Text="" Font="{Fonts/Pericles24}" HorizontalAlignment="Center" VerticalAlignment="Center"/>        
+        </CanvasWidget>
+        <BevelledButtonWidget Name="Mountain_Dialog.Button4" Style="{Styles/ButtonStyle_Plus}" VerticalAlignment="Center"/>
+      </StackPanelWidget>
+	  
+	  <CanvasWidget Size="Infinity, 30">
+	  
+        <StackPanelWidget Direction="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+          <CanvasWidget Size="180, -1" VerticalAlignment="Center">
+            <LabelWidget Name="Mountain_Dialog.Labe22" Text="Size" Font="{Fonts/Pericles18}" HorizontalAlignment="Center"/>
+          </CanvasWidget>
+          <SliderWidget Name="Mountain_Dialog.Slider2" VerticalAlignment="Center" LabelWidth="120" />
+        </StackPanelWidget>
+      </CanvasWidget>
+	  
+	  <StackPanelWidget Direction="Horizontal" HorizontalAlignment="Center">
+        <BevelledButtonWidget Name="Mountain_Dialog.Button1" Style="{Styles/ButtonStyle_Minus}" VerticalAlignment="Center"/>
+        <CanvasWidget Size="220, 30" VerticalAlignment="Center">
+		 <LabelWidget Name="" Text="" Font="{Fonts/Pericles24}" HorizontalAlignment="Center" VerticalAlignment="Center"/>        
+        </CanvasWidget>
+        <BevelledButtonWidget Name="Mountain_Dialog.Button2" Style="{Styles/ButtonStyle_Plus}" VerticalAlignment="Center"/>
+      </StackPanelWidget>
+	  
+				  
+	   
+	   <UniformSpacingPanelWidget Direction="Horizontal" Margin="0, 1">
+                    <LabelWidget Text="Block 1:" Font="{Fonts/Pericles32}" Color="128, 128, 128" HorizontalAlignment="Far" VerticalAlignment="Center" Margin="20, 0" />
+                    <StackPanelWidget Direction="Horizontal" Margin="20, 0">
+                      <BlockIconWidget Name="Mountain_Dialog.Icon" Size="54, 54" VerticalAlignment="Center" HorizontalAlignment="Center" Contents="1" />
+                      <CanvasWidget Size="10, 0" />
+                
+                      <CanvasWidget Size="20, 0" />
+                      <BevelledButtonWidget Name="Mountain_Dialog.Icon_select" Style="{Styles/ButtonStyle_70x60}" Text="..." VerticalAlignment="Center" />
+                    </StackPanelWidget>
+                  </UniformSpacingPanelWidget>
+				  
+				  <UniformSpacingPanelWidget Direction="Horizontal" Margin="0, 1">
+                    <LabelWidget Text="Block 2 :" Font="{Fonts/Pericles32}" Color="128, 128, 128" HorizontalAlignment="Far" VerticalAlignment="Center" Margin="20, 0" />
+                    <StackPanelWidget Direction="Horizontal" Margin="20, 0">
+                      <BlockIconWidget Name="Mountain_Dialog.Icon1" Size="54, 54" VerticalAlignment="Center" HorizontalAlignment="Center" Contents="1" />
+                      <CanvasWidget Size="10, 0" />
+                
+                      <CanvasWidget Size="20, 0" />
+                      <BevelledButtonWidget Name="Mountain_Dialog.Icon_select1" Style="{Styles/ButtonStyle_70x60}" Text="..." VerticalAlignment="Center" />
+                    </StackPanelWidget>
+                  </UniformSpacingPanelWidget>
+				  
+				  <UniformSpacingPanelWidget Direction="Horizontal" Margin="0, 1">
+                    <LabelWidget Text="Block 3 :" Font="{Fonts/Pericles32}" Color="128, 128, 128" HorizontalAlignment="Far" VerticalAlignment="Center" Margin="20, 0" />
+                    <StackPanelWidget Direction="Horizontal" Margin="20, 0">
+                      <BlockIconWidget Name="Mountain_Dialog.Icon2" Size="54, 54" VerticalAlignment="Center" HorizontalAlignment="Center" Contents="1" />
+                      <CanvasWidget Size="10, 0" />
+                
+                      <CanvasWidget Size="20, 0" />
+                      <BevelledButtonWidget Name="Mountain_Dialog.Icon_select2" Style="{Styles/ButtonStyle_70x60}" Text="..." VerticalAlignment="Center" />
+                    </StackPanelWidget>
+                  </UniformSpacingPanelWidget>
+				  
+				  
+
+     
+	   
+
+      <CanvasWidget Size="0, Infinity" />
+
+      <StackPanelWidget Direction="Horizontal" HorizontalAlignment="Center">
+        <BevelledButtonWidget Name="Mountain_Dialog.OK" Style="{Styles/ButtonStyle_160x60}" Text="Build" Margin="20, 0" />
+        <BevelledButtonWidget Name="Mountain_Dialog.Cancel" Style="{Styles/ButtonStyle_160x60}" Margin="20, 0" Text="Cancel"/>
+      </StackPanelWidget>
+
+    </StackPanelWidget>
+  </CanvasWidget>
+
+</CanvasWidget>

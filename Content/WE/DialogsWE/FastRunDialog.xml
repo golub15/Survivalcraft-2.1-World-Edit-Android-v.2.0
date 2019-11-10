@@ -1,0 +1,42 @@
+<CanvasWidget xmlns="runtime-namespace:Game">
+
+  <CanvasWidget Size="700, 280" ClampToBounds="true" HorizontalAlignment="Center" VerticalAlignment="Center">
+    <RectangleWidget FillColor="0, 0, 0, 255" OutlineColor="128, 128, 128, 128" OutlineThickness="2" />
+    <StackPanelWidget Direction="Vertical" HorizontalAlignment="Center" VerticalAlignment="Near" Margin="15, 15">
+      
+      <LabelWidget Name="Dialog.Title" Font="{Fonts/Pericles32}" HorizontalAlignment="Center"/>
+
+      <CanvasWidget Size="0, Infinity" />
+
+      <CanvasWidget Size="Infinity, 60">
+	  
+        <StackPanelWidget Direction="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+          <CanvasWidget Size="180, -1" VerticalAlignment="Center">
+            <LabelWidget Name="Dialog.Label1" Text="Speed" Font="{Fonts/Pericles18}" HorizontalAlignment="Center"/>
+          </CanvasWidget>
+          <SliderWidget Name="Dialog.Slider1" VerticalAlignment="Center" LabelWidth="120" />
+        </StackPanelWidget>
+      </CanvasWidget>
+	  
+	  <StackPanelWidget Direction="Horizontal" HorizontalAlignment="Center">
+        <BevelledButtonWidget Name="Dialog.Button3" Style="{Styles/ButtonStyle_Minus}" VerticalAlignment="Center"/>
+        <CanvasWidget Size="230, 40" VerticalAlignment="Center">
+		 <LabelWidget Name="" Text="" Font="{Fonts/Pericles24}" HorizontalAlignment="Center" VerticalAlignment="Center"/>        
+        </CanvasWidget>
+        <BevelledButtonWidget Name="Dialog.Button4" Style="{Styles/ButtonStyle_Plus}" VerticalAlignment="Center"/>
+      </StackPanelWidget>
+	  
+	  
+	  
+
+      <CanvasWidget Size="0, Infinity" />
+
+      <StackPanelWidget Direction="Horizontal" HorizontalAlignment="Center">
+        <BevelledButtonWidget Name="Dialog.OK" Style="{Styles/ButtonStyle_160x60}" Text="OK" Margin="20, 0" />
+        <BevelledButtonWidget Name="Dialog.Cancel" Style="{Styles/ButtonStyle_160x60}" Margin="20, 0" Text="Cancel"/>
+      </StackPanelWidget>
+
+    </StackPanelWidget>
+  </CanvasWidget>
+
+</CanvasWidget>

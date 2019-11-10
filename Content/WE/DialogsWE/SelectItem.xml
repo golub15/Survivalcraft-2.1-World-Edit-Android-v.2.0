@@ -1,0 +1,3 @@
+<StackPanelWidget xmlns="runtime-namespace:Game" Direction="Horizontal" VerticalAlignment="Center" >
+  <LabelWidget Name="SelectItem.Text" Font="{Fonts/Pericles32}" Color="255, 255, 255" VerticalAlignment="Center" />
+</StackPanelWidget>

@@ -1,0 +1,57 @@
+<CanvasWidget xmlns="runtime-namespace:Game">
+
+  <CanvasWidget Size="700, 300" ClampToBounds="true" HorizontalAlignment="Center" VerticalAlignment="Center">
+    <RectangleWidget FillColor="0, 0, 0, 255" OutlineColor="128, 128, 128, 128" OutlineThickness="2" />
+    <StackPanelWidget Direction="Vertical" HorizontalAlignment="Center" VerticalAlignment="Near" Margin="15, 15">
+      
+      <LabelWidget Name="Pillar_Dialog.Title" Font="{Fonts/Pericles32}" HorizontalAlignment="Center"/>
+
+      <CanvasWidget Size="0, Infinity" />
+
+      
+	  
+	 
+	  
+	  
+	  
+	
+	  
+
+				  
+	   <UniformSpacingPanelWidget Direction="Horizontal" Margin="0, 1">
+                    <LabelWidget Text="Position:" Font="{Fonts/Pericles32}" Color="128, 128, 128" HorizontalAlignment="Far" VerticalAlignment="Center" Margin="20, 0" />
+                    <StackPanelWidget Direction="Horizontal" Margin="20, 0">
+                      <LabelWidget Name="Pillar_Dialog.Pos"  Font="{Fonts/Pericles18}" VerticalAlignment="Center" />
+                      <CanvasWidget Size="20, 0" />
+                      <BevelledButtonWidget Name="Pillar_Dialog.Select_pos" Style="{Styles/ButtonStyle_70x60}" Text="..." VerticalAlignment="Center" />
+                    </StackPanelWidget>
+                  </UniformSpacingPanelWidget>
+	   
+	   <UniformSpacingPanelWidget Direction="Horizontal" Margin="0, 1">
+                    <LabelWidget Text="Block :" Font="{Fonts/Pericles32}" Color="128, 128, 128" HorizontalAlignment="Far" VerticalAlignment="Center" Margin="20, 0" />
+                    <StackPanelWidget Direction="Horizontal" Margin="20, 0">
+                      <BlockIconWidget Name="Pillar_Dialog.Icon" Size="54, 54" VerticalAlignment="Center" HorizontalAlignment="Center" Contents="1" />
+                      <CanvasWidget Size="10, 0" />
+                
+                      <CanvasWidget Size="20, 0" />
+                      <BevelledButtonWidget Name="Pillar_Dialog.Icon_select" Style="{Styles/ButtonStyle_70x60}" Text="..." VerticalAlignment="Center" />
+                    </StackPanelWidget>
+                  </UniformSpacingPanelWidget>
+
+     
+	  
+	  
+	 
+	  
+
+      <CanvasWidget Size="0, Infinity" />
+
+      <StackPanelWidget Direction="Horizontal" HorizontalAlignment="Center">
+        <BevelledButtonWidget Name="Pillar_Dialog.OK" Style="{Styles/ButtonStyle_160x60}" Text="Build" Margin="20, 0" />
+        <BevelledButtonWidget Name="Pillar_Dialog.Cancel" Style="{Styles/ButtonStyle_160x60}" Margin="20, 0" Text="Cancel"/>
+      </StackPanelWidget>
+
+    </StackPanelWidget>
+  </CanvasWidget>
+
+</CanvasWidget>

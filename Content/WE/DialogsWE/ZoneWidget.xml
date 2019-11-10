@@ -1,0 +1,33 @@
+<CanvasWidget xmlns="runtime-namespace:Game">
+
+  <CanvasWidget Size="700, 350" ClampToBounds="true" HorizontalAlignment="Center" VerticalAlignment="Center">
+    <RectangleWidget FillColor="0, 0, 0, 255" OutlineColor="128, 128, 128, 128" OutlineThickness="2" />
+    <StackPanelWidget Direction="Vertical" HorizontalAlignment="Center" VerticalAlignment="Near" Margin="15, 15">
+      
+	  
+      <LabelWidget Name="Dialog.Title"  Font="{Fonts/Pericles32}" Text="Coppy/Paste zone in file" HorizontalAlignment="Center"/>
+
+      <CanvasWidget Size="0, Infinity" />
+
+     
+      <CanvasWidget Size="0, Infinity" />
+
+	  
+	  <StackPanelWidget Direction="Vertical">
+      <CanvasWidget Size="600, 210">
+        <BevelledRectangleWidget BevelSize="-2" CenterColor="0, 0, 0, 255" />
+        <ListPanelWidget Name="ListView" Direction="Vertical" Margin="4, 4" ItemSize="64" SelectionColor="10, 70, 0, 90"/>
+      </CanvasWidget>
+      <CanvasWidget Size="0, 4" />
+	  
+      <StackPanelWidget Direction="Horizontal" HorizontalAlignment="Center">
+        <BevelledButtonWidget Name="AddButton" Style="{Styles/ButtonStyle_160x60}" Text="Add" />
+        <BevelledButtonWidget Name="MoreButton" Style="{Styles/ButtonStyle_70x60}" Text="..." />
+		<BevelledButtonWidget Name="Cancel" Style="{Styles/ButtonStyle_160x60}" Margin="20, 0" Text="Cancel"/>
+      </StackPanelWidget>
+    </StackPanelWidget>
+
+    </StackPanelWidget>
+  </CanvasWidget>
+
+</CanvasWidget>
